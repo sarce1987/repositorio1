@@ -6,6 +6,7 @@ public class Circunferencia {
     
     //Atributos
     private double radio;
+    private String prueba; // estos esta poniendo para probar git
     
     //a) Constructor
     public Circunferencia(double radio){
